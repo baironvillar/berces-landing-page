@@ -1,11 +1,34 @@
 {
 	"version": 1,
 	"skills": {
+		"ai-seo": {
+			"source": "coreyhaines31/marketingskills",
+			"sourceType": "github",
+			"skillPath": "skills/ai-seo/SKILL.md",
+			"computedHash": "a6befed362ed7127d051db085bc8be9470abbe87f70a40ee9a05e201dd8c693f"
+		},
 		"astro": {
 			"source": "astrolicious/agent-skills",
 			"sourceType": "github",
 			"skillPath": "skills/astro/SKILL.md",
 			"computedHash": "ebefe26b231d32379c14e41a46c2de7b4b0184543bedab7febdabe4fb21fba4e"
+		},
+		"chilean-security-sales": {
+			"source": "/home/bairon/Proyectos/berces/chilean-security-sales",
+			"sourceType": "local",
+			"computedHash": "9486bec16b41379468fe34ea77df80190993a452d16cdc80aba7cdd48fc4797d"
+		},
+		"conversion-psychology": {
+			"source": "mike-coulbourn/claude-vibes",
+			"sourceType": "github",
+			"skillPath": "plugins/vibes/skills/conversion-psychology/SKILL.md",
+			"computedHash": "9a0302bf7fbb1c6b8fab6ac3f2ee217489af4d4babf9f64c409a424670d57392"
+		},
+		"copywriting": {
+			"source": "coreyhaines31/marketingskills",
+			"sourceType": "github",
+			"skillPath": "skills/copywriting/SKILL.md",
+			"computedHash": "d3191c3ad90610e0cacecf638d927418852264fabbd6e81c045094dad7d96f11"
 		},
 		"tailwind": {
 			"source": "heygen-com/hyperframes",
